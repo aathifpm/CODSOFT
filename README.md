@@ -1,8 +1,9 @@
 #CODSOFT Internship Repository
-HI I AM AATHIF JAMEEL PM 
+
+Hi Guyss.. I am Aathif Jameel PM 
+
 Student of Artificial intelligence Department 
+
 At Panimalar Engineering College - Poonamalle
 
-My firstt Internship in field of Machine Learning.
-This is something i have never done in my life (referring Projects)
-Excited to move Further in the field of AI & Ml and seek excellence.
+This is my first internship in Machine Learning. I'm excited because I've never worked on projects like these before. I'm eager to learn more about AI & ML and improve my skills.
